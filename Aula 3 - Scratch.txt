@@ -1,0 +1,13 @@
+Aula 3: Introdução ao Scratch
+
+Tem algumas situações 
+que não podem ser abstraídas.
+Exemplo:
+Eu nao posso colocar 
+esse comando diga o termo,
+antes de mudar o termo.
+
+Nos arquivos:
+Tabuada, Tabuadaa, temos
+um exemplo de abstração 
+que não pode ser ignorado.

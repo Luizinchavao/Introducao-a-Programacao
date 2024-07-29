@@ -1,0 +1,57 @@
+
+Módulo 3 - Aula 1: Pseudocódigo
+ Pseudocódigo -> É uma sequência de instruções com as palavras reservadas. Você  vai simular aquilo que o programa faz. Ex: Inicio e fim
+Não vai  rodar em nenhuma linguagem de programação, mais vai te ajudar a organizar  as ideias.
+
+As principais palavras reservadas: 
+
+-> INICIO, FIM, ESCREVA (comando de saída de dados),
+  PERGUNTE e LEIA, (comando de entrada de dados), 
+  ENQUANTO (Comando que vai estabelecer uma condição), REPITA (é uma situação condicional), CONDIÇÃO... 
+
+leia -> pode ser a leitura do seu  teclado,
+ do seu mouse, seu scanner de qualquer ferramenta 
+-> Comandos de execução 
+-> Comandos aritméticos 
+
+{} - Marcadores antes dos comandos
+SUGESTÃO - Você pode colocar os marcadores exatamente logo apóós os comandos 
+
+Ordenadamente-> Significa  que ele vai fazer uma linha, depois próxima linha e assim por diante. 
+Enquanto-> Tudo o que estiver entre os marcadores vai ser executado 
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+
+{
+INÍCIO
+
+	inteiro  numeroTab, termo, contador 
+
+        numeroTab <- 0
+        termo <- 0
+        contador <- 1
+
+        escreva(Olá, jovem! Vamos calcular!)
+        escreva(Eu sou bom em tabuadas!)
+    
+        leia(Digite o número que deseja tabular:)
+        
+
+         enquanto(contador <= 10){
+	 	contador <- contador + 1
+                termo <- termo + numeroTab 
+                escreva(termo)
+
+        }
+FIM
+}
+
+
+

@@ -22,7 +22,8 @@ Enquanto-> Tudo o que estiver entre os marcadores vai ser executado
 
 
 
-
+Módulo 3 Aula 2 Fluxograma 
+Fizemos a tradução  do pseudocódigo no fluxograma 
 
 
 

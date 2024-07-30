@@ -1,0 +1,40 @@
+Modulo 4 - Aula 1: Como declarar os dados?
+
+
+É importante agente aprender a tratar o tipo de dados.
+
+Ex: Se é inteiro ou real, e outros tipos.
+
+
+-----------------------------------------------------------------------
+
+Aula 2: Variáveis com o Scratch
+
+
+Já vimos coisas fundamentais 
+
+Tipos gerais de variáveis -> Podem ser divididos em :
+ 
+Faça testes com entradas e saidas no Scratch 
+
+Treine esse tipo de entrada com dados NUMERICOS
+
+Treine esse tipo de entrada com dados LITERAIS 
+
+Faça a comparação e veja no console se essa informação procede ou não procede.
+
+
+
+NUMERICOS -> INTEIROS (Contar coisas, contar objetos, contar eventos) OU
+REAIS-decimais (Se você precisa determinar médias, desvios ou informações aproximadas )  
+
+LITERAIS -> LETRAS, SÍMBOLOS OU TEXTOS
+
+LÓGICO -> SÃO DADOS DO TIPO VERDADEIRO OU FALSO
+
+
+
+Quando você determina um tipo de variável, você consegue controlar e comparar corretamente.
+Onde esta essa informação ? Essa informação pode estar na sua maquina,
+ no próprio programa, ou em um banco de dados ou em algum servidor em algum lugar para comparar.
+

@@ -56,3 +56,39 @@ FIM
 
 
 
+
+
+Se você quer converter de Real para Dólar, digite 1. Ou...
+Se você quer converter de Dólar para Real, digite 2.
+Escolha a opção:
+
+
+
+Olá! Vamos converter os seus Reais para Dólar. 
+Qual a cotação do Dólar hoje?
+
+
+Quanto reais deseja converter?
+
+Você terá:
+
+em dólares
+
+Olá! Vamos converter os seus Dólares para Reais. 
+Qual a cotação do Dólar hoje?
+Quanto Dólares você deseja converter?
+Você terá:
+em Reais
+
+
+Você fez uma escolha inválida, por favor, comece novamente!
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+Modulo 4 - Aula 1: Como declarar os dados?
+
+
+É importante agente aprender a tratar o tipo de dados.
+
+Ex: Se é inteiro ou real, e outros tipos.
+
+

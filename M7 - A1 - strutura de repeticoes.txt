@@ -1,0 +1,13 @@
+LOOP
+
+Toda estrutura de repetição REQUER um controle, porquê, senão o computador vai ficar rodando infinito.
+
+Se lembrar das condições iniciais?
+
+
+    Quais  são as condições de parada?
+
+                 
+               E aquilo que coloca dentro, que é o incremento que ajuda a não ter erro (BUG)
+
+
